@@ -171,9 +171,9 @@ p.note { display: none; }
 <h2><span class="yellow">01,May,2026 庭のムラサキハナナが満開</span></h2>
 <a href="20260501_001.JPG" target="_blank"><img src="20260501_001.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20260501_002.JPG" target="_blank"><img src="20260501_002.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20260501_003.JPG" target="_blank"><img src="20260501_003.JPG" alt="サンプル画像" class="responsive-media"></a>
 
 <h2><span class="yellow">ここからお花屋さんのお花たち</span></h2>
-<a href="20260501_003.JPG" target="_blank"><img src="20260501_003.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20260501_004.JPG" target="_blank"><img src="20260501_004.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20260501_005.JPG" target="_blank"><img src="20260501_005.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20260501_006.JPG" target="_blank"><img src="20260501_006.JPG" alt="サンプル画像" class="responsive-media"></a>
