@@ -461,7 +461,7 @@ https://youtube.com/shorts/1MxKGMEFFR4?feature=share<br>
 
 <!-- フッタ -->
 <footer>
-<p>Copyright 2026/04/30 alis</p>
+<p>Copyright 2026/05/02 alis</p>
 </footer>
 
 <!--HPにさまざまなJavaScriptを呼び込むための書式-->
